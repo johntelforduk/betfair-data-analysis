@@ -2,6 +2,8 @@
 
 A Jupyter notebook to explore, analyse and visualise Betfair historic data using PySpark.
 
+![Screenshot](https://github.com/johntelforduk/betfair-data-analysis/blob/master/screenshots/challenge_cup_winner_2018.jpg)
+
 #### Installation
 The following packages should be installed.
 ~~~
