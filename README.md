@@ -15,6 +15,12 @@ pip install matplotlib
 ~~~
 See `requirements.txt` for list of installed packages.
 
+#### Running The Notebook
+`cd` to the folder that contains the project. Then,
+~~~
+(betfair) C:\betfair> jupyter notebook betfair_analysis.ipynb
+~~~
+
 #### Obtaining Data
 Historical data may be downloaded from the Betfair website as follows.
 1. Request and downloaded the data you want to analyse from this area of Betfair website,
