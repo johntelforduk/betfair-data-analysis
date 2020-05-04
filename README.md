@@ -12,6 +12,7 @@ pip install bz2file
 pip install glob2
 pip install jupyter
 pip install matplotlib
+pip install findspark
 ~~~
 See `requirements.txt` for list of installed packages.
 
