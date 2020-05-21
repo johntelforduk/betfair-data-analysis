@@ -13,6 +13,7 @@ pip install glob2
 pip install jupyter
 pip install matplotlib
 pip install findspark
+pip install boto3
 ~~~
 See `requirements.txt` for list of installed packages.
 
